@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paribhandarkar&theme=solarized-light&hide_border=true width="30%")<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paribhandarkar&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribhandarkar&show_icons=true&locale=en&layout=compact" alt="paribhandarkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paribhandarkar&show_icons=true&locale=en" alt="paribhandarkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paribhandarkar&" alt="paribhandarkar" /></p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
