@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src='original.gif'/>
-
-<div style="background-color: #ff349a;">
-
-Your content goes here.
-
-</div>
+![Header](original.gif "Header")
