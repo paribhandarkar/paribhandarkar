@@ -28,6 +28,7 @@ If you want to know something more about me or about something I’ve posted, al
 Hope to hear from you! <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//pari-bhandarkar-2877161b9/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paribhandarkar) 
+[![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:bhandarkarpari@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=paribhandarkar&icon=0&color=2)](https://visitcount.itsvg.in)
