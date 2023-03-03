@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paribhandarkar&" alt="paribhandarkar" /></p>
 
 ### 🌐 Socials:
-If you want to know something more about me or about something I’ve posted, always feel free to ask. You can message me in English, Hindi and maybe Marathi (only if it’s not too complex hehe). <br>
-Hope to hear from you! <br>
-Pari <br>
+If you want to know something more about me or about something I’ve posted, always feel free to ask. You can message me in English, Hindi and maybe Marathi (only if it’s not too complex hehe). <br> <br>
+Hope to hear from you! <br> <br>
+Pari <br> <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paribhandarkar) 
 
 ---
