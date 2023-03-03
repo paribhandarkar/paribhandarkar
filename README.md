@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src='header.gif' />
-###Designer, frontend developer, and a lifelong student.
-###I design and code beautifully simple things, and I love what I do.
+### Designer, frontend developer, and a lifelong student.
+### I design and code beautifully simple things, and I love what I do.
