@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 👯‍♀️ I am seeking opportunities to work on React projects collaboratively.
 - ✍️ My experience also extends to content writing.
 - 🎀 Pronouns: she/her
-- 📚 I’m an avid reader (fun fact: the girl in the header is from my fav <strong><a href="https://www.imdb.com/title/tt0414387/">movie</a></strong> based on my fav book starring one of my fav actress!)
+- 📚 I’m an avid reader (fun fact: the girl in the header is from my fav <em><a href="https://www.imdb.com/title/tt0414387/" target="_blank">movie</a></em> based on my fav book starring one of my fav actress!)
 - ☁️ I love taking sky pictures.
