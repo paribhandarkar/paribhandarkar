@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='original.gif'/>
-![Header](original.gif "Header")
+<img src='original.gif' width="30"/>
