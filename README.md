@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 
 ### Designer, frontend developer, and a lifelong student.
  I design and code beautifully simple things, and I love what I do.
+- 🎓 I’m a full-time undergrad student
+- 💻 I'm majoring in computer science.
+- 👯‍♀️ I am seeking opportunities to work on React projects collaboratively.
+- ✍️ My experience also extends to content writing.
+- 🎀 Pronouns: she/her
+- 📚 I’m an avid reader (fun fact: the girl in the header is from my fav movie based on my fav book starring one of my fav actress!)
+- ☁️ I love taking sky pictures.
