@@ -24,8 +24,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paribhandarkar&" alt="paribhandarkar" /></p>
 
 ### 🌐 Socials:
-If you want to know something more about me or about something I’ve posted, always feel free to ask. You can message me in English, Hindi and maybe Marathi (only if it’s not too complex hehe). <br> <br>
-Hope to hear from you! <br> <br>
+Curious to know more about me or something I've shared? Don't be afraid to ask away! You can message me in English, Hindi and maybe Marathi (only if it’s not too complex hehe). <br> <br>
+Hope to hear from you. <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//pari-bhandarkar-2877161b9/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paribhandarkar) 
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:bhandarkarpari@gmail.com)
