@@ -10,8 +10,8 @@
 - 👯‍♀️ I am seeking opportunities to work on React projects collaboratively.
 - ✍️ My experience also extends to content writing.
 - 🎀 Pronouns: she/her
-<!-- - 📚 I’m an avid reader (fun fact: the girl in the header is from my fav <em><a href="https://www.imdb.com/title/tt0414387/">movie</a></em> based on my fav <em><a href="https://www.goodreads.com/book/show/1885.Pride_and_Prejudice">book</a></em> starring one of my fav <em><a href="https://www.imdb.com/name/nm0461136/">actress</a></em>!) -->
 - ☁️ I love taking sky pictures.
+<!-- - 📚 I’m an avid reader (fun fact: the girl in the header is from my fav <em><a href="https://www.imdb.com/title/tt0414387/">movie</a></em> based on my fav <em><a href="https://www.goodreads.com/book/show/1885.Pride_and_Prejudice">book</a></em> starring one of my fav <em><a href="https://www.imdb.com/name/nm0461136/">actress</a></em>!) -->
 
 
 ### 💻 Tech Stack:
