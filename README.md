@@ -21,7 +21,7 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribhandarkar&show_icons=true&locale=en&layout=compact" alt="paribhandarkar" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribhandarkar&show_icons=true&locale=en&layout=compact" alt="paribhandarkar" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paribhandarkar&" alt="paribhandarkar" /></p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paribhandarkar&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paribhandarkar&theme=transparent&hide_border=true"/></a> -->
