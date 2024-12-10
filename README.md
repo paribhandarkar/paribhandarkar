@@ -3,13 +3,8 @@
 <!-- <img src='header.gif' /> -->
 <img src='art.gif' />
 
-### Frontend developer, designer and a lifelong student.
- I design and code beautifully simple things, and I love what I do.
-- 🎓 I’m a full-time undergrad student
-- 💻 I'm majoring in computer science.
-- 👯‍♀️ I am seeking opportunities to work on React projects collaboratively.
-- ✍️ My experience also extends to content writing.
-- ☁️ I love taking sky pictures.
+
+ 
 <!-- - 📚 I’m an avid reader (fun fact: the girl in the header is from my fav <em><a href="https://www.imdb.com/title/tt0414387/">movie</a></em> based on my fav <em><a href="https://www.goodreads.com/book/show/1885.Pride_and_Prejudice">book</a></em> starring one of my fav <em><a href="https://www.imdb.com/name/nm0461136/">actress</a></em>!) -->
 <!-- - 🎀 Pronouns: she/her -->
 
